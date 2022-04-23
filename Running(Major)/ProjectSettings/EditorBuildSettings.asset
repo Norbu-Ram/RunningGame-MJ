@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8917e7755c25cc443a4e676d88feecee
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: e982c5b52eee15448a91a39b9870c66f
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: 23666c473c194b34fb48cee451748eaa
+  - enabled: 1
+    path: Assets/Scenes/DayLevel/Level 1.unity
+    guid: eb7fa9ffd53e118498d3c36f0e8bde40
+  - enabled: 1
+    path: Assets/Scenes/DayLevel/Level 2.unity
+    guid: 813627bdacc907b469ae8838f40d4988
+  - enabled: 1
+    path: Assets/Scenes/DayLevel/Level 3.unity
+    guid: 0466c36cef82de740aadc438050366a2
+  - enabled: 1
+    path: Assets/Scenes/RainingLevel/RainingLevel 1.unity
+    guid: e64d764c7057c8b4fbb93756f08143cb
+  - enabled: 1
+    path: Assets/Scenes/RainingLevel/RainingLevel 2.unity
+    guid: 23d6f6003d975c843859a339e8ba35b9
+  - enabled: 1
+    path: Assets/Scenes/RainingLevel/RainingLevel 3.unity
+    guid: e22fc6e4f25908f4487af0698a541a6c
+  - enabled: 1
+    path: Assets/Scenes/NightAndFire/FireLevel 1.unity
+    guid: 9ae1791233c42ab4191b415c8f22f24d
+  - enabled: 1
+    path: Assets/Scenes/NightAndFire/Thanks.unity
+    guid: d66d7527567e66d48a887c226a905ac9
+  m_configObjects: {}
